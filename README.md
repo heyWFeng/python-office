@@ -105,6 +105,7 @@ pip install -i https://pypi.tuna.tsinghua.edu.cn/simple python-office -U
 | 0.0.17  | add：txt转pdf | 2022-5-10 |
 | 0.0.18  | update：确定第一版readme.md、home链接改为：github地址 | 2022-5-10 |
 | 0.0.19  | add：一键模拟生成 - 带有模拟数据的Excel文件 | 2022-5-13 |
+| 0.0.20  | update：修复word转pdf，路径问题 | 2022-5-13 |
 
 
 > 关于版本更新，如有疑问，请私信微博@[程序员晚枫](http://www.python4office.cn/weibo-qaq/)
